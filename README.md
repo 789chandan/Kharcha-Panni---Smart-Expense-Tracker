@@ -1,4 +1,4 @@
-                                                                **  **Kharcha Panni - Smart Expense Tracker****
+ **Kharcha Panni - Smart Expense Tracker**
 Kharcha Panni is a lightweight, web-based personal finance management tool designed to help users track their daily income and expenses with ease. Built using the core web stack, it features a clean UI and AI-driven insights.
 
 🚀 **Live Demo**
