@@ -1,0 +1,25 @@
+/* Footer ko page ke bottom par fix karne ke liye aur styling */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.container.mb-5 {
+    flex: 1;
+}
+footer {
+    background-color: #ffffff;
+    padding: 20px 0;
+    border-top: 1px solid #e0e0e0;
+    margin-top: 40px;
+    color: #6c757d;
+}
+.footer-text {
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+}
+.dev-name {
+    color: #4e73df;
+    font-weight: 600;
+    text-decoration: none;
+}
